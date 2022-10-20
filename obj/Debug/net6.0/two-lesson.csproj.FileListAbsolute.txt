@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба it\two\two-lesson\bin\Debug\net6.0\two-lesson.exe
+C:\Users\User\Desktop\учеба it\two\two-lesson\bin\Debug\net6.0\two-lesson.deps.json
+C:\Users\User\Desktop\учеба it\two\two-lesson\bin\Debug\net6.0\two-lesson.runtimeconfig.json
+C:\Users\User\Desktop\учеба it\two\two-lesson\bin\Debug\net6.0\two-lesson.dll
+C:\Users\User\Desktop\учеба it\two\two-lesson\bin\Debug\net6.0\two-lesson.pdb
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.dll
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\refint\two-lesson.dll
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.pdb
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\two-lesson.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба it\two\two-lesson\obj\Debug\net6.0\ref\two-lesson.dll
